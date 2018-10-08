@@ -2,6 +2,8 @@
 
 A modern take on the excellent [viemu cheatsheet][viemu-cheatsheet].
 
+![Colemak Cheatsheet][colemak-cheatsheet-image]
+
 ## Project genesis
 
 When I was first learning [neovim][neovim], having a cheatsheet was incredibly
@@ -62,6 +64,7 @@ are not a contributable part of this project.
 Note that fidelity in exporting to Excel is not in scope for this project.
 Please do not submit issues related to Excel.
 
+[colemak-cheatsheet-image]: https://raw.githubusercontent.com/mattmc3/neovim-cheatsheet/master/resources/colemak-cheatsheet.png
 [neovim]: https://neovim.io
 [viemu-cheatsheet]: http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 [colemak]: https://colemak.com
