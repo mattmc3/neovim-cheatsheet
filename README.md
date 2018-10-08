@@ -73,7 +73,7 @@ Please do not submit issues related to Excel.
 
 [license]: https://github.com/mattmc3/neovim-cheat-sheet/blob/master/LICENSE
 [issues]: https://github.com/mattmc3/neovim-cheat-sheet/issues
-[colemak-cheat-sheet-image]: https://raw.githubusercontent.com/mattmc3/neovim-cheat-sheet/master/resources/colemak-cheat-sheet.png
+[colemak-cheat-sheet-image]: https://raw.githubusercontent.com/mattmc3/neovim-cheatsheet/master/resources/colemak-cheat-sheet.png
 [neovim]: https://neovim.io
 [viemu-cheat-sheet]: http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 [colemak]: https://colemak.com
