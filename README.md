@@ -1,6 +1,8 @@
 # Neovim Cheat Sheet
 
-A modern take on the excellent [viemu cheat sheet][viemu-cheat-sheet].
+A modern and customizable take on the excellent [viemu cheat
+sheet][viemu-cheat-sheet], supporting vanilla QWERTY as well as alternative
+keyboard layouts such as Colemak and Dvorak.
 
 ![Colemak Cheat Sheet][colemak-cheat-sheet-image]
 
