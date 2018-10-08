@@ -39,12 +39,16 @@ copied into your personal Google Drive and manipulated however you see fit.
     - [Carpalx QFMLWY][carpalx-cheat-sheet]
     - [Norman][norman-cheat-sheet]
     - [Workman][workman-cheat-sheet]
+    - [Minimak 4][minimak4-cheat-sheet]
+    - [Minimak 8][minimak8-cheat-sheet]
+    - [Minimak 12][minimak12-cheat-sheet]
 
 - Tutorials:
   - [Standard QWERTY][qwerty-tutorial]
   - [Colemak][colemak-tutorial]
   - [Colemak (Mod-DH with ANSI keyboard)][colemak-dh-ansi-tutorial]
   - [Colemak (Mod-DH with ISO keyboard)][colemak-dh-iso-tutorial]
+  - [Dvorak][dvorak-tutorial]
 
 - nnoremap examples:
   - [Colemak arrow remapping using langmap][colemak-nnoremap-langmap]
@@ -88,10 +92,14 @@ Please do not submit issues related to Excel.
 [norman-cheat-sheet]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=2092085321
 [carpalx-cheat-sheet]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=1017398887
 [workman-cheat-sheet]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=1777683158
+[minimak4-cheat-sheet]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=297624008
+[minimak8-cheat-sheet]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=951680086
+[minimak12-cheat-sheet]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=930891620
 [qwerty-tutorial]: https://docs.google.com/spreadsheets/d/15k_UgeY0C3j8tVQnR2hD_kNljB1AApG3x3gYrKtUAlw/
 [colemak-tutorial]: https://docs.google.com/spreadsheets/d/1ZrQvxGLl0GW5Ml20KPD_zKvWVg539EyWiy5i-9RL-Po/
 [colemak-dh-ansi-tutorial]: https://docs.google.com/spreadsheets/d/1ZrQvxGLl0GW5Ml20KPD_zKvWVg539EyWiy5i-9RL-Po/
 [colemak-dh-iso-tutorial]: https://docs.google.com/spreadsheets/d/1ZrQvxGLl0GW5Ml20KPD_zKvWVg539EyWiy5i-9RL-Po/
+[dvorak-tutorial]: https://docs.google.com/spreadsheets/d/13oiwvvVCDD0hZv87lsORdP6hl-RW_kVmZTnrHZsWBaA/
 [colemak-nnoremap-langmap]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=169441323
 [colemak-nnoremap-jenk]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=589401919
 [colemak-nnoremap-nest]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=2056013491
