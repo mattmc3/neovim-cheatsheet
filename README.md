@@ -46,16 +46,23 @@ copied into your personal Google Drive and manipulated however you see fit.
   - [Colemak (Mod-DH with ANSI keyboard)][colemak-dh-ansi-tutorial]
   - [Colemak (Mod-DH with ISO keyboard)][colemak-dh-iso-tutorial]
 
+- nnoremap examples:
+  - [Colemak arrow remapping using langmap][colemak-nnoremap-langmap]
+  - [Colemak J-->E & N-->K swap][colemak-nnoremap-jenk]
+  - [Colemak all mnemonic NEST remapping][colemak-nnoremap-nest]
+
 ## Contributing
 
 This project is designed in such a way that you are free to copy these Google
-Docs to your personal Google Drive and manipulate them however you wish. If
-you find a spelling, grammer, or accuracy issue, please submit a GitHub Issue
-and I will correct those kinds of errors in the master documents.
+Docs to your personal Google Drive and manipulate them however you wish ([see
+Creative Commons Attribution license here][license]). If you find a spelling,
+grammer, formatting, or accuracy issue, please submit a [GitHub Issue][issues]
+and I will happily correct those kinds of errors in the master documents.
 
 If there's a layout you wish were included, you are welcome to submit a GitHub
-Issue, however I cannot support every layout and recommend that if you have a
-particular layout you prefer, that you maintain your own document.
+Issue, however I cannot support every layout. Depending on the layout's
+viability and usefulness to a broad audience, I will likely recommend that you
+maintain your own document.
 
 Please do not submit your personal neovim nnoremaps. I included a few Colemak
 samples just to whet your appetite to show how you can make your own, but they
@@ -64,6 +71,8 @@ are not a contributable part of this project.
 Note that fidelity in exporting to Excel is not in scope for this project.
 Please do not submit issues related to Excel.
 
+[license]: https://github.com/mattmc3/neovim-cheatsheet/blob/master/LICENSE
+[issues]: https://github.com/mattmc3/neovim-cheatsheet/issues
 [colemak-cheatsheet-image]: https://raw.githubusercontent.com/mattmc3/neovim-cheatsheet/master/resources/colemak-cheatsheet.png
 [neovim]: https://neovim.io
 [viemu-cheatsheet]: http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
@@ -83,3 +92,7 @@ Please do not submit issues related to Excel.
 [colemak-tutorial]: https://docs.google.com/spreadsheets/d/1ZrQvxGLl0GW5Ml20KPD_zKvWVg539EyWiy5i-9RL-Po/
 [colemak-dh-ansi-tutorial]: https://docs.google.com/spreadsheets/d/1ZrQvxGLl0GW5Ml20KPD_zKvWVg539EyWiy5i-9RL-Po/
 [colemak-dh-iso-tutorial]: https://docs.google.com/spreadsheets/d/1ZrQvxGLl0GW5Ml20KPD_zKvWVg539EyWiy5i-9RL-Po/
+[colemak-nnoremap-langmap]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=169441323
+[colemak-nnoremap-jenk]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=589401919
+[colemak-nnoremap-nest]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=2056013491
+
