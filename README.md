@@ -99,8 +99,8 @@ Please do not submit issues related to Excel.
 [minimak12-cheat-sheet]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=930891620
 [qwerty-tutorial]: https://docs.google.com/spreadsheets/d/15k_UgeY0C3j8tVQnR2hD_kNljB1AApG3x3gYrKtUAlw/
 [colemak-tutorial]: https://docs.google.com/spreadsheets/d/1ZrQvxGLl0GW5Ml20KPD_zKvWVg539EyWiy5i-9RL-Po/
-[colemak-dh-ansi-tutorial]: https://docs.google.com/spreadsheets/d/1ZrQvxGLl0GW5Ml20KPD_zKvWVg539EyWiy5i-9RL-Po/
-[colemak-dh-iso-tutorial]: https://docs.google.com/spreadsheets/d/1ZrQvxGLl0GW5Ml20KPD_zKvWVg539EyWiy5i-9RL-Po/
+[colemak-dh-ansi-tutorial]: https://docs.google.com/spreadsheets/d/1F2gKBtMAqNhHQ_kfj1cShOtAr6NcTADs5hBqXKdhuLk/
+[colemak-dh-iso-tutorial]: https://docs.google.com/spreadsheets/d/1lMUgeJeDZKbdoA9_jASDM-kO0s9Fd0NwrdhBKsy3wJk/
 [dvorak-tutorial]: https://docs.google.com/spreadsheets/d/13oiwvvVCDD0hZv87lsORdP6hl-RW_kVmZTnrHZsWBaA/
 [colemak-nnoremap-langmap]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=169441323
 [colemak-nnoremap-jenk]: https://docs.google.com/spreadsheets/d/19l4rQdYZfqpMtdTjvCrYLF2z9OsAqahhPunnw7I831s/edit#gid=589401919
