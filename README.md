@@ -1,7 +1,8 @@
 # TLDR;
 
-[Click here][qwerty-cheat-sheet] to open the Google Sheets neovim cheatsheet.
+[Click here][qwerty-tutorial] to open the Google Sheets neovim cheatsheet.
 Feel free to copy it to your Google Drive and modify it however you choose.
+There's also many other non-QWERTY layouts available in the links below.
 
 # Neovim Cheat Sheet
 
