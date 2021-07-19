@@ -1,3 +1,8 @@
+# TLDR;
+
+[Click here][qwerty-cheat-sheet] to open the Google Sheets neovim cheatsheet.
+Feel free to copy it to your Google Drive and modify it however you choose.
+
 # Neovim Cheat Sheet
 
 A modern and customizable take on the excellent [viemu cheat
