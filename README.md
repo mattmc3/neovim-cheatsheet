@@ -1,14 +1,13 @@
 # TLDR;
 
-[Click here][qwerty-tutorial] to open the Google Sheets neovim cheatsheet.
-Feel free to copy it to your Google Drive and modify it however you choose.
-There's also many other non-QWERTY layouts available in the links below.
+[Click here][qwerty-tutorial] to open the Google Sheets neovim cheatsheet. Feel free to
+copy it to your Google Drive and modify it however you choose. There's also many other
+non-QWERTY layouts [available][qwerty-cheat-sheet] for users or Colemak, Dvorak, and
+more. You can find more in the links below.
 
 # Neovim Cheat Sheet
 
-A modern and customizable take on the excellent [viemu cheat
-sheet][viemu-cheat-sheet], supporting vanilla QWERTY as well as alternative
-keyboard layouts such as Colemak and Dvorak.
+A modern and customizable take on the excellent [viemu cheat sheet][viemu-cheat-sheet], supporting QWERTY as well as alternative keyboard layouts such as Colemak and Dvorak.
 
 ![Colemak Cheat Sheet][colemak-cheat-sheet-image]
 
